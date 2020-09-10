@@ -5,7 +5,6 @@ Project source can be downloaded from : https://github.com/ponnapallihima/Speech
 
 Author & Contributor List
 --------------------------
-Ponnapalli Hima
 
 How to run file :
 To implement this project on your Machine
